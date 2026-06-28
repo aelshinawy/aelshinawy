@@ -18,12 +18,7 @@ I architect and ship sports data products at [Hudl](https://hudl.com). Outside o
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### <img src="https://cdn.simpleicons.org/typescript/888888" width="18" height="18" alt="" /> Engineer
-*By day*
+<img src="https://cdn.simpleicons.org/typescript/888888" width="16" height="16" style="vertical-align:middle" alt="" />&nbsp; **Engineer** &nbsp;·&nbsp; *By day*
 
 | | |
 |---|---|
@@ -43,11 +38,9 @@ I architect and ship sports data products at [Hudl](https://hudl.com). Outside o
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### <img src="https://cdn.simpleicons.org/godotengine/888888" width="18" height="18" alt="" /> Game developer
-*By night*
+<img src="https://cdn.simpleicons.org/godotengine/888888" width="16" height="16" style="vertical-align:middle" alt="" />&nbsp; **Game developer** &nbsp;·&nbsp; *By night*
 
 | | |
 |---|---|
@@ -61,13 +54,9 @@ I architect and ship sports data products at [Hudl](https://hudl.com). Outside o
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 ---
 
-### <img src="https://cdn.simpleicons.org/anthropic/888888" width="18" height="18" alt="" /> On my radar: Exploring AI
+<img src="https://cdn.simpleicons.org/anthropic/888888" width="16" height="16" style="vertical-align:middle" alt="" />&nbsp; **On my radar: Exploring AI**
 
 I follow AI developments closely and experiment in my own time, integrating LLM APIs, building small tools, testing prompt workflows, and staying hands-on with what is actually shipping in the space.
 
@@ -78,7 +67,7 @@ I follow AI developments closely and experiment in my own time, integrating LLM 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/github/888888" width="18" height="18" alt="" /> GitHub stats
+<img src="https://cdn.simpleicons.org/github/888888" width="16" height="16" style="vertical-align:middle" alt="" />&nbsp; **GitHub stats**
 
 <div align="center">
 
@@ -89,7 +78,7 @@ I follow AI developments closely and experiment in my own time, integrating LLM 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/itchdotio/888888" width="18" height="18" alt="" /> Shipped games
+<img src="https://cdn.simpleicons.org/itchdotio/888888" width="16" height="16" style="vertical-align:middle" alt="" />&nbsp; **Shipped games**
 
 | Game | Genre | Description |
 |---|---|---|
@@ -102,7 +91,7 @@ I follow AI developments closely and experiment in my own time, integrating LLM 
 
 ---
 
-### <img src="https://cdn.simpleicons.org/git/888888" width="18" height="18" alt="" /> Open source projects
+<img src="https://cdn.simpleicons.org/git/888888" width="16" height="16" style="vertical-align:middle" alt="" />&nbsp; **Open source projects**
 
 | Project | Description | Stack |
 |---|---|---|
