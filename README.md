@@ -67,14 +67,14 @@ I architect and ship sports data products at [Hudl](https://hudl.com). Outside o
 
 ---
 
-### 🔬 On my radar — Exploring AI
+### 🔬 On my radar - Exploring AI
 
 I follow AI developments closely and experiment in my own time, integrating LLM APIs, building small tools, testing prompt workflows, and staying hands-on with what is actually shipping in the space.
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=flat&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
