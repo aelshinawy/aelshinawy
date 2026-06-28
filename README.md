@@ -22,7 +22,7 @@ I architect and ship sports data products at [Hudl](https://hudl.com). Outside o
 <tr>
 <td width="50%" valign="top">
 
-### 🖥 Engineer
+### <img src="https://cdn.simpleicons.org/typescript/888888" width="18" height="18" alt="" /> Engineer
 *By day*
 
 | | |
@@ -46,12 +46,12 @@ I architect and ship sports data products at [Hudl](https://hudl.com). Outside o
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Game developer
+### <img src="https://cdn.simpleicons.org/godotengine/888888" width="18" height="18" alt="" /> Game developer
 *By night*
 
 | | |
 |---|---|
-| Where | **[lazertrax.itch.io](https://lazertrax.itch.io/)** |
+| Platform | **[lazertrax.itch.io](https://lazertrax.itch.io/)** |
 | Titles shipped | 6 |
 | Genres | Puzzle, Survival, Action |
 | Latest | [Entwined](https://lazertrax.itch.io/entwined) |
@@ -67,18 +67,18 @@ I architect and ship sports data products at [Hudl](https://hudl.com). Outside o
 
 ---
 
-### 🔬 On my radar - Exploring AI
+### <img src="https://cdn.simpleicons.org/anthropic/888888" width="18" height="18" alt="" /> On my radar: Exploring AI
 
 I follow AI developments closely and experiment in my own time, integrating LLM APIs, building small tools, testing prompt workflows, and staying hands-on with what is actually shipping in the space.
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-CC785C?style=flat&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=flat&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
-### 📊 GitHub stats
+### <img src="https://cdn.simpleicons.org/github/888888" width="18" height="18" alt="" /> GitHub stats
 
 <div align="center">
 
@@ -89,16 +89,7 @@ I follow AI developments closely and experiment in my own time, integrating LLM 
 
 ---
 
-### 💻 Open source projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [gournal](https://github.com/aelshinawy/gournal) | CLI journal with Git integration | TypeScript |
-| [snake-game](https://github.com/aelshinawy/snake-game) | Classic snake, built from scratch | JS / HTML / CSS |
-
----
-
-### 🕹 Shipped games
+### <img src="https://cdn.simpleicons.org/itchdotio/888888" width="18" height="18" alt="" /> Shipped games
 
 | Game | Genre | Description |
 |---|---|---|
@@ -108,6 +99,15 @@ I follow AI developments closely and experiment in my own time, integrating LLM 
 | [Blood Caverns](https://lazertrax.itch.io/blood-caverns) | Survival | Endless cave crawler where you buy weapons with your own blood |
 | [TOGGLD](https://lazertrax.itch.io/toggld) | Puzzle | Decimal to binary conversion game |
 | [One Dimension](https://lazertrax.itch.io/one-dimension) | Puzzle | Can you navigate in only 1 dimension? |
+
+---
+
+### <img src="https://cdn.simpleicons.org/git/888888" width="18" height="18" alt="" /> Open source projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [gournal](https://github.com/aelshinawy/gournal) | CLI journal with Git integration | TypeScript |
+| [snake-game](https://github.com/aelshinawy/snake-game) | Classic snake, built from scratch | JS / HTML / CSS |
 
 ---
 
