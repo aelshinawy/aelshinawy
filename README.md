@@ -97,6 +97,7 @@ I follow AI developments closely and experiment in my own time, integrating LLM 
 |:---|:---|:---|
 | [gournal](https://github.com/aelshinawy/gournal) | CLI journal with Git integration | TypeScript |
 | [snake-game](https://github.com/aelshinawy/snake-game) | Classic snake, built from scratch | JS / HTML / CSS |
+| [productick](https://github.com/aelshinawy/productick) | Pomodoro timer to supercharge your productivity | TypeScript / React |
 
 ---
 
