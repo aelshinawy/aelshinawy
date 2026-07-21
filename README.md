@@ -1,16 +1,14 @@
 # Ahmed El-Shinawy
 
-**Full-Stack Engineer · Game Developer · 10+ years**
+**Full-stack engineer at [Hudl](https://hudl.com) · Game developer, 6 shipped titles · 12+ years in software**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3d4148?style=flat&logo=linkedin&logoColor=cccccc)](https://linkedin.com/in/ahmedelshinawy/)
 [![X](https://img.shields.io/badge/X-3d4148?style=flat&logo=x&logoColor=cccccc)](https://x.com/iLazertrax)
 [![itch.io](https://img.shields.io/badge/itch.io-3d4148?style=flat&logo=itchdotio&logoColor=cccccc)](https://lazertrax.itch.io/)
 
----
-
-I architect and ship sports data products at [Hudl](https://hudl.com). Outside of work I design and release games, with 6 published titles across puzzle, survival, and action genres.
-
 🟢 Currently building a new game and experimenting with AI tooling
+
+---
 
 **Day job** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3d4148?style=flat&logo=typescript&logoColor=cccccc) ![React](https://img.shields.io/badge/React-3d4148?style=flat&logo=react&logoColor=cccccc) ![Node.js](https://img.shields.io/badge/Node.js-3d4148?style=flat&logo=nodedotjs&logoColor=cccccc) ![Python](https://img.shields.io/badge/Python-3d4148?style=flat&logo=python&logoColor=cccccc) ![AWS](https://img.shields.io/badge/AWS-3d4148?style=flat&logo=amazonwebservices&logoColor=cccccc) ![Docker](https://img.shields.io/badge/Docker-3d4148?style=flat&logo=docker&logoColor=cccccc)
 
