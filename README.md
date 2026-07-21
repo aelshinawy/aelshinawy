@@ -12,12 +12,6 @@ I architect and ship sports data products at [Hudl](https://hudl.com). Outside o
 
 🟢 Currently building a new game and experimenting with AI tooling
 
----
-
-### About
-
-Full-stack engineer by day, game dev by night, and currently deep in AI tooling on the side.
-
 **Day job** &nbsp; ![TypeScript](https://img.shields.io/badge/TypeScript-3d4148?style=flat&logo=typescript&logoColor=cccccc) ![React](https://img.shields.io/badge/React-3d4148?style=flat&logo=react&logoColor=cccccc) ![Node.js](https://img.shields.io/badge/Node.js-3d4148?style=flat&logo=nodedotjs&logoColor=cccccc) ![Python](https://img.shields.io/badge/Python-3d4148?style=flat&logo=python&logoColor=cccccc) ![AWS](https://img.shields.io/badge/AWS-3d4148?style=flat&logo=amazonwebservices&logoColor=cccccc) ![Docker](https://img.shields.io/badge/Docker-3d4148?style=flat&logo=docker&logoColor=cccccc)
 
 **Side project** &nbsp; ![Godot](https://img.shields.io/badge/Godot-3d4148?style=flat&logo=godotengine&logoColor=cccccc) ![C++](https://img.shields.io/badge/C++-3d4148?style=flat&logo=cplusplus&logoColor=cccccc) ![C#](https://img.shields.io/badge/C%23-3d4148?style=flat&logo=csharp&logoColor=cccccc)
@@ -30,12 +24,12 @@ Full-stack engineer by day, game dev by night, and currently deep in AI tooling 
 
 | Game | Genre | Description |
 |:---|:---|:---|
+| [One Dimension](https://lazertrax.itch.io/one-dimension) | Puzzle | Can you navigate in only 1 dimension? |
 | [Entwined](https://lazertrax.itch.io/entwined) | Puzzle | Color-flipping puzzle game across 18 levels |
-| [Dicey Dash](https://lazertrax.itch.io/dicey-dash) | Survival / Runner | Endless runner with dice mechanics, playable in browser |
+| [TOGGLD](https://lazertrax.itch.io/toggld) | Puzzle | Decimal to binary conversion game |
 | [Super Adrenaline Boy](https://lazertrax.itch.io/super-adrenaline-boy) | Action | Fast-paced runner that tests your reflexes |
 | [Blood Caverns](https://lazertrax.itch.io/blood-caverns) | Survival | Endless cave crawler where you buy weapons with your own blood |
-| [TOGGLD](https://lazertrax.itch.io/toggld) | Puzzle | Decimal to binary conversion game |
-| [One Dimension](https://lazertrax.itch.io/one-dimension) | Puzzle | Can you navigate in only 1 dimension? |
+| [Dicey Dash](https://lazertrax.itch.io/dicey-dash) | Survival / Runner | Endless runner with dice mechanics, playable in browser |
 
 ---
 
