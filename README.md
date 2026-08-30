@@ -1,6 +1,6 @@
 # Ahmed El-Shinawy
 
-**Full-stack engineer at [Hudl](https://hudl.com) · Game developer, 6 shipped titles · 12+ years in software**
+**Full-stack engineer at [Hudl](https://hudl.com) · Game developer, 7 shipped titles · 12+ years in software**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3d4148?style=flat&logo=linkedin&logoColor=cccccc)](https://linkedin.com/in/ahmedelshinawy/)
 [![X](https://img.shields.io/badge/X-3d4148?style=flat&logo=x&logoColor=cccccc)](https://x.com/iLazertrax)
@@ -22,6 +22,7 @@
 
 | Game | Genre | Description |
 |:---|:---|:---|
+| [Short Fuse](https://lazertrax.itch.io/short-fuse) | Puzzle | A spatial puzzle about detonating bombs at exactly the right time |
 | [One Dimension](https://lazertrax.itch.io/one-dimension) | Puzzle | Can you navigate in only 1 dimension? |
 | [Entwined](https://lazertrax.itch.io/entwined) | Puzzle | Color-flipping puzzle game across 18 levels |
 | [TOGGLD](https://lazertrax.itch.io/toggld) | Puzzle | Decimal to binary conversion game |
