@@ -4,7 +4,7 @@
 
 I build production software, developer tools, and games. I care about distributed systems, thoughtful product engineering, and creative technical problems.
 
-12+ years in software · Senior Software Engineer at [Hudl](https://hudl.com) · 8 games shipped
+14+ years in software · Senior Software Engineer at [Hudl](https://hudl.com) · 8 games shipped
 
 [LinkedIn](https://linkedin.com/in/ahmedelshinawy/) · [X](https://x.com/iLazertrax) · [itch.io](https://lazertrax.itch.io/) · [Gournal](https://gournal.aelshinawy.com/)
 
