@@ -38,13 +38,11 @@ TypeScript · React · RxJS · Jotai
 
 ## Games
 
-<table>
-  <tr>
-    <td align="center"><a href="https://lazertrax.itch.io/short-fuse"><img src="https://img.itch.zone/aW1nLzI4OTMzNDA1LmdpZg==/315x250%23c/6bAzO9.gif" alt="Short Fuse" width="240"></a><br><a href="https://lazertrax.itch.io/short-fuse"><b>Short Fuse</b></a><br><sub>Detonate bombs at exactly the right time</sub></td>
-    <td align="center"><a href="https://lazertrax.itch.io/one-dimension"><img src="https://img.itch.zone/aW1nLzIzNTU5OTkucG5n/315x250%23c/mAFqpe.png" alt="One Dimension" width="240"></a><br><a href="https://lazertrax.itch.io/one-dimension"><b>One Dimension</b></a><br><sub>Can you navigate in only one dimension?</sub></td>
-    <td align="center"><a href="https://lazertrax.itch.io/entwined"><img src="https://img.itch.zone/aW1nLzM5MTA3MzMucG5n/315x250%23c/4DJC%2Ff.png" alt="Entwined" width="240"></a><br><a href="https://lazertrax.itch.io/entwined"><b>Entwined</b></a><br><sub>A color-flipping puzzle across 18 levels</sub></td>
-  </tr>
-</table>
+<a href="https://lazertrax.itch.io/short-fuse"><img src="https://img.itch.zone/aW1nLzI4OTMzNDA1LmdpZg==/315x250%23c/6bAzO9.gif" alt="Short Fuse" title="Short Fuse" width="240"></a>
+<a href="https://lazertrax.itch.io/one-dimension"><img src="https://img.itch.zone/aW1nLzIzNTU5OTkucG5n/315x250%23c/mAFqpe.png" alt="One Dimension" title="One Dimension" width="240"></a>
+<a href="https://lazertrax.itch.io/entwined"><img src="https://img.itch.zone/aW1nLzM5MTA3MzMucG5n/315x250%23c/4DJC%2Ff.png" alt="Entwined" title="Entwined" width="240"></a>
+
+[**Short Fuse**](https://lazertrax.itch.io/short-fuse), detonate bombs at exactly the right time · [**One Dimension**](https://lazertrax.itch.io/one-dimension), navigate in only one dimension · [**Entwined**](https://lazertrax.itch.io/entwined), a color-flipping puzzle across 18 levels
 
 Five more on [itch.io](https://lazertrax.itch.io/), from a 48-hour game jam entry to an endless cave crawler where you buy weapons with your own blood.
 
