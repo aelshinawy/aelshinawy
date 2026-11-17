@@ -42,10 +42,6 @@ TypeScript · React · RxJS · Jotai
 <a href="https://lazertrax.itch.io/one-dimension"><img src="https://img.itch.zone/aW1nLzIzNTU5OTkucG5n/315x250%23c/mAFqpe.png" alt="One Dimension" title="One Dimension" width="240"></a>
 <a href="https://lazertrax.itch.io/entwined"><img src="https://img.itch.zone/aW1nLzM5MTA3MzMucG5n/315x250%23c/4DJC%2Ff.png" alt="Entwined" title="Entwined" width="240"></a>
 
-[**Short Fuse**](https://lazertrax.itch.io/short-fuse), detonate bombs at exactly the right time · [**One Dimension**](https://lazertrax.itch.io/one-dimension), navigate in only one dimension · [**Entwined**](https://lazertrax.itch.io/entwined), a color-flipping puzzle across 18 levels
-
-Five more on [itch.io](https://lazertrax.itch.io/), from a 48-hour game jam entry to an endless cave crawler where you buy weapons with your own blood.
-
 ## Stack
 
 TypeScript · Node.js · NestJS · React · Vite · PostgreSQL · Drizzle · Redis · BullMQ · Kafka · Kubernetes · AWS · Docker · Python · Godot · C++ · C# · MCP and AI agents
